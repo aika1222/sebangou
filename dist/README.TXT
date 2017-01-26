@@ -31,25 +31,3 @@ in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
-■■■■
-
-わたくし、カイロと申します。
-何かを入力するとフレーム内に何かを出力する、そんな仕組みを作ろうと思いました。
-その時にとりあえず思いついたのが、AKBの背番号でしたので、それを使いました。
-javaで書きました。
-hashmapを使ってみました。
-森川　61
-小林　41
-福岡　71
-島崎　86
-小笠原　4
-加藤　7
-に対応しています。
-
-クラス名やファイル名などはきちんと決めてないです。
-
-応用の方法としては、名前のところと番号の所を対応させて書き換えると
-何かと何かをマッチングさせられます。
-
-荒削りなソフトですが、よろしくお願いします。
-■■■■
